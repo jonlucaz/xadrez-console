@@ -8,6 +8,7 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
             try
             {
                 PartidaDeXadrez partida = new PartidaDeXadrez();
